@@ -1,0 +1,32 @@
+_repo: The-Riddle-of-the-Purple-Emperor_43135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hanshew, Thomas W.
+    alias: Hanshew, T. W. (Thomas W.)
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '5480'
+    url: http://www.gutenberg.org/2009/agents/5480
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
+  - agent_name: Hanshew, Mary E.
+    gutenberg_agent_id: '7197'
+    url: http://www.gutenberg.org/2009/agents/7197
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cleek, Hamilton (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: The Riddle of the Purple Emperor
+url: http://www.gutenberg.org/ebooks/43135
